@@ -1,2 +1,2 @@
 # NSS-data-NMC
-ANalysis of National Student Survey data for nursing and midwifery degrees in the UK
+Analysis of National Student Survey (NSS) data for nursing and midwifery degrees in the UK.
