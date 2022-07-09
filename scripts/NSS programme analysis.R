@@ -31,7 +31,7 @@ walk2(.x = rep(unique(nss$Programme), 3), .y = rep(c("2020", "2021", "2022"), ea
 })
 
 # Maps --------------------------------------------------------------------
-# register_google("AIzaSyAaUc7RQxTZ64TdQAuwXid4S11HBGRpibA")
+# register_google([googlemapsAPI goes here])
 # long_lat <- geocode(locations$Postcode)
 #saveRDS(long_lat, file = "data/long_lat.rds")
 long_lat <- readRDS("data/long_lat.rds")
